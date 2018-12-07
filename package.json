@@ -1,0 +1,14 @@
+{
+  "name": "fm-loader",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-loader/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-loader#readme"
+}
